@@ -1,0 +1,14 @@
+C:\Users\mega\Documents\11V\zad_3\zad_3\bin\Debug\net8.0\zad_3.exe
+C:\Users\mega\Documents\11V\zad_3\zad_3\bin\Debug\net8.0\zad_3.deps.json
+C:\Users\mega\Documents\11V\zad_3\zad_3\bin\Debug\net8.0\zad_3.runtimeconfig.json
+C:\Users\mega\Documents\11V\zad_3\zad_3\bin\Debug\net8.0\zad_3.dll
+C:\Users\mega\Documents\11V\zad_3\zad_3\bin\Debug\net8.0\zad_3.pdb
+C:\Users\mega\Documents\11V\zad_3\zad_3\obj\Debug\net8.0\zad_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mega\Documents\11V\zad_3\zad_3\obj\Debug\net8.0\zad_3.AssemblyInfoInputs.cache
+C:\Users\mega\Documents\11V\zad_3\zad_3\obj\Debug\net8.0\zad_3.AssemblyInfo.cs
+C:\Users\mega\Documents\11V\zad_3\zad_3\obj\Debug\net8.0\zad_3.csproj.CoreCompileInputs.cache
+C:\Users\mega\Documents\11V\zad_3\zad_3\obj\Debug\net8.0\zad_3.dll
+C:\Users\mega\Documents\11V\zad_3\zad_3\obj\Debug\net8.0\refint\zad_3.dll
+C:\Users\mega\Documents\11V\zad_3\zad_3\obj\Debug\net8.0\zad_3.pdb
+C:\Users\mega\Documents\11V\zad_3\zad_3\obj\Debug\net8.0\zad_3.genruntimeconfig.cache
+C:\Users\mega\Documents\11V\zad_3\zad_3\obj\Debug\net8.0\ref\zad_3.dll
