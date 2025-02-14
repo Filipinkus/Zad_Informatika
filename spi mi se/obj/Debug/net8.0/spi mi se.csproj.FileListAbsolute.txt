@@ -1,0 +1,15 @@
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\bin\Debug\net8.0\spi mi se.exe
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\bin\Debug\net8.0\spi mi se.deps.json
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\bin\Debug\net8.0\spi mi se.runtimeconfig.json
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\bin\Debug\net8.0\spi mi se.dll
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\bin\Debug\net8.0\spi mi se.pdb
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\spi mi se.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\spi mi se.AssemblyInfoInputs.cache
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\spi mi se.AssemblyInfo.cs
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\spi mi se.csproj.CoreCompileInputs.cache
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\spi mi se.sourcelink.json
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\spi mi se.dll
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\refint\spi mi se.dll
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\spi mi se.pdb
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\spi mi se.genruntimeconfig.cache
+C:\Users\mega\Documents\11V\spi mi se\spi mi se\obj\Debug\net8.0\ref\spi mi se.dll
